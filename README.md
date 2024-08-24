@@ -9,11 +9,10 @@ This repository contains a comprehensive analysis of the Paris Olympics 2024, al
 - **Streamlit App**: A user-friendly web application for real-time data exploration and analysis.
 - **Historical Context**: Analysis comparing the 2024 Olympics with previous games to identify trends and patterns.
 
-## Repository Structure
+## Contents
 
-- `data/`: Contains raw and processed datasets used in the analysis.
-- `scripts/`: Python scripts for data processing, analysis, and visualization.
-- `notebooks/`: Jupyter notebooks with exploratory data analysis and preliminary findings.
+- `data`: [Kaggle](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data)
+- `notebooks`: [Jupyter notebooks with exploratory data analysis and preliminary findings.](https://www.kaggle.com/code/niharikakhanna/paris-olympics-analysis)
 - `dashboard/`: Power BI files and Streamlit app code.
 - `report/`: Final 5-page report summarizing the analysis and key findings.
 
