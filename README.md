@@ -12,7 +12,7 @@ This repository contains a comprehensive analysis of the Paris Olympics 2024, al
 ## Contents
 
 - `data`: [Kaggle](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data)
-- `notebooks`: [Jupyter notebooks with exploratory data analysis and preliminary findings.](https://www.kaggle.com/code/niharikakhanna/paris-olympics-analysis)
+- `notebooks`: [Kaggle notebook with EDA and preliminary findings.](https://www.kaggle.com/code/niharikakhanna/paris-olympics-analysis)
 - `dashboard/`: Power BI files and Streamlit app code.
 - `report/`: Final 5-page report summarizing the analysis and key findings.
 
